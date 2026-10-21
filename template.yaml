@@ -1,0 +1,12 @@
+# refco-letters — a small agent of Refco, the fictional reference company used in Trinity demos.
+name: refco-letters
+display_name: Refco Letters
+description: |
+  Drafts customer letters for Refco's finance team: payment confirmations,
+  friendly reminders and thank-you notes, in Refco's house style.
+tagline: "Customer letters in Refco's house style"
+version: "1.0"
+author: Ability.ai
+resources:
+  cpu: "1"
+  memory: "2g"
