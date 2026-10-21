@@ -14,3 +14,16 @@ credentials.json
 .trinity/*
 content/
 letters/
+# the container's own home files (the agent's home is the repo)
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+.cache/
+.local/
+.claude.json
+.claude/backups/
+.claude/plugins/
+.claude/policy-limits.json*
+.claude/remote-settings.json
+.claude/settings.json
