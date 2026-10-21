@@ -1,2 +1,16 @@
 .env
-*.log
+.env.*
+!.env.example
+.mcp.json
+*.pem
+*.key
+credentials.json
+.claude/projects/
+.claude/statsig/
+.claude/todos/
+.claude/debug/
+.claude/sessions/
+.claude/shell-snapshots/
+.trinity/*
+content/
+letters/

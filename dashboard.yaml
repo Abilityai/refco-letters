@@ -1,0 +1,9 @@
+title: "Letters"
+platform_metrics: false
+sections:
+  - title: "What this agent does"
+    layout: list
+    columns: 1
+    widgets:
+      - type: markdown
+        content: "Drafts customer letters in the house style written in CLAUDE.md."

@@ -10,3 +10,8 @@ author: Ability.ai
 resources:
   cpu: "1"
   memory: "2g"
+use_cases:
+  - "Draft a payment confirmation for INV-1001"
+  - "Write a friendly reminder for an invoice 10 days overdue"
+capabilities:
+  - customer-letters
